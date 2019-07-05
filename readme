@@ -1,0 +1,17 @@
+#HAPI JS sample working project
+
+#STEP 1:
+
+Clone project by terminal using : git clone 
+Npm install : sudo npm install
+Setup your mongoDB
+do npm run or nodemon or any other task runner for starting the server
+
+
+Look at on : http://localhost:5000/
+
+#Description : In this project, JWT implementation and basic's of api completion like login, register, and getusrerById
+
+
+
+#Thanks
